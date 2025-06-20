@@ -109,7 +109,7 @@ Compatible with g++, clang++, etc.
 🙋‍♂️ Author
 Ujjawal Mishra
 B.Tech, IIT Delhi
-Built during summer break of First semester to organize CP journey effectively.
+Built during summer break after second semester to organize CP journey effectively.
 
 ---
 
