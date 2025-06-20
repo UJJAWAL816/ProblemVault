@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="LOGO.png" alt="ProblemVault Logo" width="200"/>
+</p>
 # 📘 ProblemVault (C++ CLI)
 
 A Command-Line Interface (CLI) tool built in C++ to efficiently store and track your **most valuable Competitive Programming problems** — add notes, view stats, search by tags/platforms, and store everything persistently in a text file.
