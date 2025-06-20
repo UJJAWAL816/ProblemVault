@@ -1,0 +1,20 @@
+# === Compiled files ===
+*.exe
+*.out
+*.o
+*.obj
+
+# === Backup files ===
+*~
+
+# === Editor directories ===
+.vscode/
+.idea/
+
+# === OS-generated files ===
+.DS_Store
+Thumbs.db
+
+# === Temporary files ===
+*.log
+*.tmp

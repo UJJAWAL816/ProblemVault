@@ -1,0 +1,5 @@
+1|Two sum|Leetcode|solved|unordered map can be used to solve the problem |Array,Hashing,
+2|Three Sum |LeetCode|solved|Pointers approach is easiest and optimal |Array,
+3|Above The Clouds |Codeforces|unsolved|Easy logic think right wrote wrong in the contest |String,
+4|count the subarray that sums to k|Leetcode|solved|Using prefix sum techinque is best way |Hashing,
+5|Those Who Are With Us|Codeforces|solved|One silly mistake wrote logic and full code 99%correct in contest |Greedy,
